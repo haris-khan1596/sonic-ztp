@@ -1063,7 +1063,7 @@ Running command: ztp run -y
 
 ##  7. Code Structure
 
-Code related to ZTP framework is included in the [azure/sonic-ztp](azure/sonic-ztp) github repository. The compiled package is named as sonic-ztp_version_all.deb.
+Code related to ZTP framework is included in the [sonic-net/sonic-ztp](https://github.com/sonic-net/sonic-ztp) github repository. The compiled package is named as sonic-ztp_version_all.deb.
 
 
 
