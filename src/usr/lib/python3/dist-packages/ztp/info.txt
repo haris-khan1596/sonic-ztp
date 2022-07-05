@@ -1,0 +1,7 @@
+DecodeSysEeprom.py stores switch product name, serial number & mac address. return its info to log the data abt switch
+defaults.py stores default configuration of ztp.json file that will be provided by the user 
+downloader.py used to download files from server using curl.
+JsonReader.py download json file, read json file, generate json file and set value of a single option.and also convert json file into python dictionary and a object of JsonReader class
+Logger.py This class allow to log data to syslog and/or to a file.
+ZTPCfg.py This class allow to load data from a configuration json file for the configuration of switch
+ZTPLib.py this have many function doing different task.
